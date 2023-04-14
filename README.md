@@ -7,7 +7,7 @@
 After installing unity-hub create unity account by sign in on unity hub
 
 #### Installing unity editor
-unity-hub -> intalls -> install editor -> official releases -> 2021.3.20f1(lts) install -> check microsoft visual studio community -> check android build support ->  check windows build support -> continue -> install
+unity-hub -> installs -> install editor -> official releases -> 2021.3.20f1(lts) install -> check microsoft visual studio community -> check android build support ->  check windows build support -> continue -> install
 
 #### install or import some packages
 unity-hub -> create project -> 3d -> window -> package manager -> device simulator -> install
