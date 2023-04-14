@@ -28,9 +28,9 @@ unity-hub -> create project -> 3d -> window -> package manager -> device simulat
 - Unity -> assets -> import package -> custom package -> select the downloaded vuforia package.
 
 #### Datasets and checkpoint links for vton-2d
-python file for results :https://colab.research.google.com/drive/1AntuTyqF6wkxtRk-4gWAfbGBEAKk9-eT?authuser=5
-dataset flder link : https://drive.google.com/drive/folders/1vLR4XOM0miCuLJa-qQ7oo7NP5Qb5D_1H?usp=share_link
-checkpoints folder link : https://drive.google.com/drive/folders/1WyhfmCQc1j3hNEOuZvWHjm0Y2HMqhWBY?usp=share_link
+- python file for results :https://colab.research.google.com/drive/1AntuTyqF6wkxtRk-4gWAfbGBEAKk9-eT?authuser=5
+- dataset flder link : https://drive.google.com/drive/folders/1vLR4XOM0miCuLJa-qQ7oo7NP5Qb5D_1H?usp=share_link
+- checkpoints folder link : https://drive.google.com/drive/folders/1WyhfmCQc1j3hNEOuZvWHjm0Y2HMqhWBY?usp=share_link
 
 
 
