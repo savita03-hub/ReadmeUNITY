@@ -7,18 +7,18 @@
 After installing unity-hub create unity account by sign in on unity hub
 
 #### Installing unity editor
-unity-hub -> intalls -> install editor -> official releases -> 2021.3.20f1(lts) install -> check microsoft visual studio community -> check android build support -> continue -> install
+unity-hub -> intalls -> install editor -> official releases -> 2021.3.20f1(lts) install -> check microsoft visual studio community -> check android build support ->  check windows build support -> continue -> install
 
 #### install or import some packages
 unity-hub -> create project -> 3d -> window -> package manager -> device simulator -> install
 
-#### sign in through this account for the geeting access of the projects
--unity sign-in
--user id- saviiibudania03@gmail.com
--password- S@vita_3
+#### Sign in through this account for the geeting access of the projects
+- unity sign-in
+- user id- saviiibudania03@gmail.com
+- password- S@vita_3
 
 #### Working with vuforia engine for image targets
-- Vuforia doveloper portal
+- Vuforia doveloper portal : https://developer.vuforia.com/
 - Sign in with this account
 - User id- savitabudania03@gmail.com
 - Password- S@vita_3
