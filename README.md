@@ -1,6 +1,6 @@
-### Download unity
+#### Download unity
 - Download Link: https://unity3d.com/get-unity/download
-- we can download unity with different ways (select download unity Hub)
+- We can download unity with different ways (select download unity Hub)
 - Once it's done open up the folder that contains this file.
 - I agree -> Install -> Finish
 
@@ -18,12 +18,15 @@ unity-hub -> create project -> 3d -> window -> package manager -> device simulat
 -password- S@vita_3
 
 #### Working with vuforia engine for image targets
-- vuforia doveloper portal
-- sign in with this account
-- user id- savitabudania03@gmail.com
-- password- S@vita_3
-- - all the keys and license managers are present there.
+- Vuforia doveloper portal
+- Sign in with this account
+- User id- savitabudania03@gmail.com
+- Password- S@vita_3
+- All the keys and license managers are present there.
 - ** downloads -> Add Vuforia Engine to a Unity Project or upgrade to the latest version **
-- this will download the package of vuforia engine for unity
-- unity -> assets -> import package -> custom package -> select the downloaded vuforia package.
+- This will download the package of vuforia engine for unity
+- Unity -> assets -> import package -> custom package -> select the downloaded vuforia package.
+
+
+
 
