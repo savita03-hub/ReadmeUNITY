@@ -12,16 +12,11 @@ unity-hub -> installs -> install editor -> official releases -> 2021.3.20f1(lts)
 #### install or import some packages
 unity-hub -> create project -> 3d -> window -> package manager -> device simulator -> install
 
-#### Sign in through this account for the geeting access of the projects
-- unity sign-in
-- user id- saviiibudania03@gmail.com
-- password- S@vita_3
+#### Sign in unity
 
 #### Working with vuforia engine for image targets
 - Vuforia doveloper portal : https://developer.vuforia.com/
-- Sign in with this account
-- User id- savitabudania03@gmail.com
-- Password- S@vita_3
+- Sign in 
 - All the keys and license managers are present there.
 - ** downloads -> Add Vuforia Engine to a Unity Project or upgrade to the latest version **
 - This will download the package of vuforia engine for unity
