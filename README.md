@@ -27,6 +27,15 @@ unity-hub -> create project -> 3d -> window -> package manager -> device simulat
 - dataset flder link : https://drive.google.com/drive/folders/1vLR4XOM0miCuLJa-qQ7oo7NP5Qb5D_1H?usp=share_link
 - checkpoints folder link : https://drive.google.com/drive/folders/1WyhfmCQc1j3hNEOuZvWHjm0Y2HMqhWBY?usp=share_link
 
+1. Install the requirements
+2. Download/Prepare the dataset
+3. Train GMM network
+4. Get warped clothes for training set with trained GMM network, and copy warped clothes & masks inside data/train directory
+5. Train TOM network
+6. Test GMM for testing set
+7. Get warped clothes for testing set, copy warped clothes & masks inside data/test directory
+8. Test TOM testing set
+
 
 
 
