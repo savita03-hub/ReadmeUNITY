@@ -37,5 +37,10 @@ unity-hub -> create project -> 3d -> window -> package manager -> device simulat
 8. Test TOM testing set
 
 
+Final Folder link for training and testing code and results of characteristic-preserving image-based virtual try-on network and virtual try on 3d using unity.
+https://drive.google.com/drive/folders/17mhOF6sYYX421NS55mNI1kGM6JXaensJ?usp=share_link
+
+
+
 
 
